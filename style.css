@@ -1,0 +1,28 @@
+* {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+}
+.main {
+  margin: 50px auto;
+  max-width: 1200px;
+}
+.content {
+  padding: 70px;
+  box-shadow: 0 0 16px;
+}
+blockquote {
+  margin-left: 0;
+  margin-top: -27px;
+}
+b {
+  font-size: 67px;
+}
+span {
+  font-style: italic;
+  font-size: 20px;
+}
+input {
+  width: 164px;
+  height: 37px;
+  color: rgb(247, 179, 7);
+  background-color: rgb(251, 252, 253);
+}
