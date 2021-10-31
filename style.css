@@ -16,13 +16,15 @@ blockquote {
 b {
   font-size: 67px;
 }
-span {
+.text {
   font-style: italic;
-  font-size: 20px;
+  font-size: 23px;
+  padding-top: 24px;
 }
 input {
   width: 164px;
   height: 37px;
   color: rgb(247, 179, 7);
   background-color: rgb(251, 252, 253);
+  border-color: rgb(247, 179, 7);
 }
